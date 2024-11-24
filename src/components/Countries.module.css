@@ -1,0 +1,18 @@
+.content h1 {
+    font-size: 2rem;
+    color: purple;
+}
+
+.content {
+    background-color: white;
+    width: 50vw;
+    font-family: serif;
+    margin: 0 auto;
+    height: 100vh;
+}
+
+.dropdown {
+    padding: 0.5rem;
+    width: 100%;
+    font-size: 1.2rem;
+}
